@@ -18,6 +18,9 @@ https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md#getting-start
 30-minute video on setting up Gulp on a project  
 https://www.youtube.com/watch?v=dwSLFai8ovQ  
 
+**Beginner's Guide to Gulp**  
+http://andy-carter.com/blog/a-beginners-guide-to-the-task-runner-gulp
+
 ##Git
 **Git Immersion**  
 http://gitimmersion.com/
