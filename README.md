@@ -13,6 +13,11 @@ http://discover-devtools.codeschool.com/
 **Git Immersion**  
 http://gitimmersion.com/
 
+##Gulp
+**Gulp - The Basics**  
+30-minute video on setting up Gulp on a project  
+https://www.youtube.com/watch?v=dwSLFai8ovQ
+
 **tryGit**  
 Free Code School intro course. Very short and only covers a few concepts.  
 https://www.codeschool.com/account/courses/try-git
