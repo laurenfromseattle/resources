@@ -29,6 +29,10 @@ http://gitimmersion.com/
 Free Code School intro course. Very short and only covers a few concepts.  
 https://www.codeschool.com/account/courses/try-git
 
+##Responsive Images 
+Responsive Images Done Right: A Guide To \<picture> And srcset  
+http://www.smashingmagazine.com/2014/05/responsive-images-done-right-guide-picture-srcset/  
+
 ##Server Stuff
 **An Introduction to Apache**  
 HTTP requests and responses, TCP/IP protocol, directory structure  
