@@ -36,6 +36,9 @@ http://www.smashingmagazine.com/2014/05/responsive-images-done-right-guide-pictu
 Responsive Images Community Group  
 https://responsiveimages.org  
 
+Srcset Demo  
+http://www.webkit.org/demos/srcset/  
+
 ##Server Stuff
 **An Introduction to Apache**  
 HTTP requests and responses, TCP/IP protocol, directory structure  
